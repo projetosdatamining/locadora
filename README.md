@@ -21,15 +21,15 @@ psql -h localhost -d locadora_populado -U postgres -p 5432 -q -W -f script_Inser
 echo "inicio do processo" %TEMP_INICIO%<br>
 echo "fim do processo" %time%<br>
 +++++++++++++++++++++++++++++++++++++++++++++++<br>
-
+<br>
+<br>
+EXECUCAO DO CODIGO GERAL<br>
 
 <br>
-EXECUCAO DO CODIGO GERAL
+O código completo está no arquivo "exec_cria_tabelas_insere_dados.bat"
 <br>
-
-
-+*************************************************
-
++++++++++++++++++++++++++++++++++++++++++++++++<br>
+<br>
 RESUMO (será necessario entrar com a senha para cada insercao ou execucao psql no database)<br>
 <br>
 "inicio geral do processo" 14:30:41,44<br>
