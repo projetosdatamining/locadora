@@ -17,7 +17,16 @@ Tempo tempo de execução
 <br>
 
 <br>
-### Trecho de código semelhante ao do arquivo que executa os scripts de criação e inserção 
+###EXECUCAO DO CODIGO GERAL<br>
+
+Baixe os aquivos bd_locadora1.zip e  bd_locadora2.zip, descompacte na mesma pasta.
+<br>
+Acesse a pasta e execute o arquivo "exec_cria_tabelas_insere_dados.bat"<br>
+(será necessario entrar com a senha para cada um dos 5 processos de criação ou insercao de execucao via psql no database)<br>
+
+
+<br>
+### Trecho de código semelhante ao do arquivo completo que executa os scripts completos de criação e inserção 
 Tempo de execução para tabela clientes<br>
 Start: 13:29:51<br>
 Finish: 13:30:25<br>
@@ -31,10 +40,3 @@ echo "inicio do processo" %TEMP_INICIO%<br>
 echo "fim do processo" %time%<br>
 +++++++++++++++++++++++++++++++++++++++++++++++<br>
 <br>
-<br>
-###EXECUCAO DO CODIGO GERAL<br>
-
-Baixe os aquivos bd_locadora1.zip e  bd_locadora2.zip, descompacte na mesma pasta.
-<br>
-O código completo está no arquivo "exec_cria_tabelas_insere_dados.bat"<br>
-(será necessario entrar com a senha para cada insercao ou execucao psql no database)<br>
