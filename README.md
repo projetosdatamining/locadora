@@ -38,3 +38,17 @@ Baixe os aquivos zip e descompacte na mesma pasta
 <br>
 O código completo está no arquivo "exec_cria_tabelas_insere_dados.bat"<br>
 (será necessario entrar com a senha para cada insercao ou execucao psql no database)<br>
+
+<br>
++++++++++++++++++++++++++++++++++++++++++++++++<br>
+<br>
+RESUMO 
+"inicio do processo de criaþÒo das tabelas" 14:32:49,62<br>
+"fim do processo de criaþÒo das tabelas" 14:42:47,36<br>
+"inicio do processo insercao categoria" 14:30:50,28<br>
+"fim do processo de criaþÒo das tabelas" 14:31:24,14<br>
+"inicio do processo insercao CLIENTE" 14:31:24,14<br>
+"fim do processo de criaþÒo das tabelas" 14:32:05,03<br>
+"inicio do processo insercao LOCACAO" 14:32:49,62<br>
+"fim do processo de criaþÒo das tabelas" 14:42:47,36<br>
+<br>
