@@ -33,7 +33,7 @@ Acesse a pasta e execute o arquivo "exec_cria_tabelas_insere_dados.bat"<br>
 ![alt tag](https://github.com/projetosdatamining/locadora/blob/master/esquema_locadora.png)
 
 <br>
-### Trecho de código semelhante ao do arquivo completo que executa os scripts completos de criação e inserção 
+### Trecho de código semelhante ao do arquivo que executa os scripts completos de criação e inserção 
 Tempo de execução para tabela clientes<br>
 Start: 13:29:51<br>
 Finish: 13:30:25<br>
