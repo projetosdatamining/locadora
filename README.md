@@ -1,5 +1,10 @@
 # locadora
-Base de dados com 1,5 Milhão de Registros<br>
+Base de dados com 1,5 Milhão de Registros Relacionados<br>
+a) tabela categoria:  10 regisros
+a) tabela filme:     100.000 regisros
+a) tabela cliente:     100.000 regisros
+a) tabela locacao:     1.500.000 regisros
+
 <br>
 Antes de aplicar os scripts crie o bando de dados locadora_populado aplicando as instruções abaixo:<br>
 **CREATE DATABASE locadora_populado**<br>
