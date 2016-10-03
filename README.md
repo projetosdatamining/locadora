@@ -17,10 +17,10 @@ Tempo tempo de execução
 <br>
 
 <br>
-### Uso do parametro -q
+### Trecho de código semelhante ao do arquivo que executa os scripts de criação e inserção 
 Tempo de execução para tabela clientes<br>
-Start: 13:29:51,16<br>
-Finish: 13:30:25,52<br>
+Start: 13:29:51<br>
+Finish: 13:30:25<br>
 <br>
 EXEMPLO DE COIGO EXECUTADO:<br>
 +++++++++++++++++++++++++++++++++++++++++++++++<br>
