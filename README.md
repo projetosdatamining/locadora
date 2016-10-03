@@ -34,7 +34,7 @@ echo "fim do processo" %time%<br>
 <br>
 EXECUCAO DO CODIGO GERAL<br>
 
-Baixe os aquivos zip e descompacte na mesma pasta
+Baixe os aquivos bd_locadora1.zip e  bd_locadora2.zip, descompacte na mesma pasta.
 <br>
 O código completo está no arquivo "exec_cria_tabelas_insere_dados.bat"<br>
 (será necessario entrar com a senha para cada insercao ou execucao psql no database)<br>
