@@ -10,6 +10,13 @@ O consumo médio de Memória ram foi:<br>
 a) prompt do windows:1 MB<br>
 b) psql:1MB <br>
 <br>
+Tempo tempo de execução 
+<br>
+"inicio do processo" 14:30:41<br>
+"final do processo" 14:42:47<br>
+<br>
+
+<br>
 ### Uso do parametro -q
 Tempo de execução para tabela clientes<br>
 Start: 13:29:51,16<br>
@@ -28,15 +35,12 @@ echo "fim do processo" %time%<br>
 EXECUCAO DO CODIGO GERAL<br>
 
 <br>
-O código completo está no arquivo "exec_cria_tabelas_insere_dados.bat"
+O código completo está no arquivo "exec_cria_tabelas_insere_dados.bat"<br>
+(será necessario entrar com a senha para cada insercao ou execucao psql no database)<br>
 <br>
 +++++++++++++++++++++++++++++++++++++++++++++++<br>
 <br>
-RESUMO (será necessario entrar com a senha para cada insercao ou execucao psql no database)<br>
-<br>
-"inicio geral do processo" 14:30:41,44<br>
-"final do processo completo 14:42:47,38<br>
-<br>
+RESUMO 
 "inicio do processo de criaþÒo das tabelas" 14:32:49,62<br>
 "fim do processo de criaþÒo das tabelas" 14:42:47,36<br>
 "inicio do processo insercao categoria" 14:30:50,28<br>
