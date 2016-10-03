@@ -24,13 +24,18 @@ Tempo tempo de execução
 <br>
 ###Como executar os Scripts<br>
 
-Baixe os aquivos bd_locadora1.zip e  bd_locadora2.zip, descompacte na mesma pasta.
+Baixe os aquivos **bd_locadora.zip** e  **bd_locadora2.zip**, descompacte na mesma pasta.
 <br>
 Acesse a pasta e execute o arquivo "exec_cria_tabelas_insere_dados.bat"<br>
 (será necessario entrar com a senha para cada um dos 5 processos de criação ou insercao de execucao via psql no database)<br>
+<br>
 ###ESQUEMA DO DATABASE<br>
 
 ![alt tag](https://github.com/projetosdatamining/locadora/blob/master/esquema_locadora.png)
+
+###ESTADO DO BANCO
+
+![alt tag](https://github.com/projetosdatamining/locadora/blob/master/estado_do_banco_bd_locadora.png)
 
 <br>
 ### Trecho de código semelhante ao do arquivo que executa os scripts completos de criação e inserção 
