@@ -28,7 +28,9 @@ Baixe os aquivos bd_locadora1.zip e  bd_locadora2.zip, descompacte na mesma past
 <br>
 Acesse a pasta e execute o arquivo "exec_cria_tabelas_insere_dados.bat"<br>
 (será necessario entrar com a senha para cada um dos 5 processos de criação ou insercao de execucao via psql no database)<br>
+###ESQUEMA DO DATABASE<br>
 
+![alt tag](https://github.com/projetosdatamining/locadora/blob/master/esquema_locadora.png)
 
 <br>
 ### Trecho de código semelhante ao do arquivo completo que executa os scripts completos de criação e inserção 
