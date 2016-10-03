@@ -2,7 +2,7 @@
 Base de dados com 1,5 Milhão de Registros<br>
 <br>
 Antes de aplicar os scripts crie o bando de dados locadora_populado aplicando as instruções abaixo:<br>
-CREATE DATABASE locadora_populado<br>
+**CREATE DATABASE locadora_populado**<br>
 <br>
 A criação de tabela e inclusão de dados foi realizada em um computaodr I7 com 8GB de Ram e Hd SATA de 1TB, utilizando-se do Windows 8.<br>
 <br>
