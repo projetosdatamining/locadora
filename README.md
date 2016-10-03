@@ -22,7 +22,7 @@ Tempo tempo de execução
 <br>
 
 <br>
-###EXECUCAO DO CODIGO GERAL<br>
+###Como executar os Scripts<br>
 
 Baixe os aquivos bd_locadora1.zip e  bd_locadora2.zip, descompacte na mesma pasta.
 <br>
